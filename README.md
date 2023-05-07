@@ -127,4 +127,4 @@ Install latest version of npm
 
 https://www.linkedin.com/in/mradul-singh-35042a19b/
 
-Project Link: [https://github.com/crookedfingerworks/NETPRIME](https://github.com/crookedfingerworks/NETPRIME)
+Project Link: https://github.com/mradulsingh0223/NETPRIME.git
