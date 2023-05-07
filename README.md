@@ -1,17 +1,3 @@
-<p align="center">
-  <h1 align="center">NETPRIME: A Netflix Clone</h1>
-  <img src="./public/images/readme/Main.png" alt="NETPRIME Screenshot">
-  <p align="center">
-    My React.js implementation of Netflix. Movie data was pulled from TMDB and trailer videos from Youtube.
-    <br /><br />
-    <a href="https://www.youtube.com/watch?v=GpHEcxh3ia8"><strong>View Video Demo »</strong></a>
-    <br /><br />
-    <a href="https://github.com/crookedfingerworks/NETPRIME/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/crookedfingerworks/NETPRIME/issues">Request Feature</a>
-  </p>
-</p>
-
 <h2 style="display: inline-block">Table of Contents</h2>
 <ol>
   <li>
@@ -85,8 +71,6 @@ Install latest version of npm
 
 **Creating an Account**
 
-![](./public/images/readme/Sign_Up.png)
-
 1. Go to Sign Up page.
    - From the homepage, enter your email and click 'Get Started'.
    - From Sign In page, click the 'Sign up now' link below 'Sign In' button.
@@ -97,8 +81,6 @@ Install latest version of npm
 
 **Logging In**
 
-![](./public/images/readme/Sign_In.png)
-
 1. Go to Sign In page.
    - From the homepage, click 'Sign in' button.
    - From Sign Up page, click the 'Sign in now' link below 'Sign Up' button.
@@ -106,8 +88,6 @@ Install latest version of npm
    - You can sign in using either email or phone number.
 
 **Searching for a Show**
-
-![](./public/images/readme/Search.png)
 
 1. Log in and select a profile.
 2. Click the appropriate tab for your search.
@@ -119,8 +99,6 @@ Install latest version of npm
 
 **Adding User Profile**
 
-![](./public/images/readme/Add_Profile.png)
-
 1. Log in to your account.
 2. Click 'Manage Profiles'.
 3. Click 'Add Profile'.
@@ -131,8 +109,6 @@ Install latest version of npm
 
 **Editing User Profile**
 
-![](./public/images/readme/Edit_Profile.png)
-
 1. Log in to your account.
 2. Click 'Manage Profiles'.
 3. Click the profile you wish to edit.
@@ -140,7 +116,6 @@ Install latest version of npm
 
 **Deleting User Profile**
 
-![](./public/images/readme/Delete_Profile.png)
 
 1. Log in to your account.
 2. Click 'Manage Profiles'.
@@ -150,6 +125,6 @@ Install latest version of npm
 
 ## Contact
 
-crooked.finger.works@gmail.com
+https://www.linkedin.com/in/mradul-singh-35042a19b/
 
 Project Link: [https://github.com/crookedfingerworks/NETPRIME](https://github.com/crookedfingerworks/NETPRIME)
